@@ -175,7 +175,8 @@
 				B00717CB1FF37603008B87D4 /* KLProgressHUDGifView.swift */,
 				B00717CD1FF37611008B87D4 /* KLProgressView.swift */,
 			);
-			path = KLProgressHUD;
+			name = KLProgressHUD;
+			path = ../../KLProgressHUD;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

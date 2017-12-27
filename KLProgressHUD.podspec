@@ -11,5 +11,6 @@ Pod::Spec.new do |s|
   s.source_files = 'KLProgressHUD/*.swift'
   s.resources = 'KLProgressHUD/KLProgressHUD.bundle'
   s.requires_arc = true
+  s.frameworks = "Foundation","UIKit"
   s.pod_target_xcconfig = { 'SWIFT_VERSION' => '3.0' }
 end

@@ -14,21 +14,21 @@
 		B00717911FF36F21008B87D4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B007178F1FF36F21008B87D4 /* LaunchScreen.storyboard */; };
 		B007179C1FF36F21008B87D4 /* KLProgressHUDDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B007179B1FF36F21008B87D4 /* KLProgressHUDDemoTests.swift */; };
 		B00717A71FF36F21008B87D4 /* KLProgressHUDDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00717A61FF36F21008B87D4 /* KLProgressHUDDemoUITests.swift */; };
-		B00717B61FF36F6A008B87D4 /* String-Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00717B51FF36F6A008B87D4 /* String-Extension.swift */; };
-		B00717B81FF36F90008B87D4 /* UIView-Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00717B71FF36F90008B87D4 /* UIView-Extension.swift */; };
-		B00717BA1FF36FB6008B87D4 /* KLProgressHUD.bundle in Resources */ = {isa = PBXBuildFile; fileRef = B00717B91FF36FB6008B87D4 /* KLProgressHUD.bundle */; };
-		B00717BC1FF3701A008B87D4 /* KLProgressHUDType.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00717BB1FF3701A008B87D4 /* KLProgressHUDType.swift */; };
-		B00717BE1FF37055008B87D4 /* KLProgressHUDConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00717BD1FF37055008B87D4 /* KLProgressHUDConfig.swift */; };
-		B00717C01FF370DC008B87D4 /* KLProgressHUDMaskStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00717BF1FF370DC008B87D4 /* KLProgressHUDMaskStyle.swift */; };
-		B00717C21FF37118008B87D4 /* KLProgressHUDImageType.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00717C11FF37118008B87D4 /* KLProgressHUDImageType.swift */; };
-		B00717C41FF37463008B87D4 /* KLProgressHUDEffectStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00717C31FF37463008B87D4 /* KLProgressHUDEffectStyle.swift */; };
-		B00717C61FF37489008B87D4 /* KLProgressHUDAnimationStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00717C51FF37489008B87D4 /* KLProgressHUDAnimationStyle.swift */; };
-		B00717C81FF374BC008B87D4 /* KLProgressHUDAnimationShowStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00717C71FF374BC008B87D4 /* KLProgressHUDAnimationShowStyle.swift */; };
-		B00717CA1FF374DD008B87D4 /* KLProgressHUD.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00717C91FF374DD008B87D4 /* KLProgressHUD.swift */; };
-		B00717CC1FF37603008B87D4 /* KLProgressHUDGifView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00717CB1FF37603008B87D4 /* KLProgressHUDGifView.swift */; };
-		B00717CE1FF37611008B87D4 /* KLProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00717CD1FF37611008B87D4 /* KLProgressView.swift */; };
 		B00717D01FF39B01008B87D4 /* loader.gif in Resources */ = {isa = PBXBuildFile; fileRef = B00717CF1FF39B01008B87D4 /* loader.gif */; };
 		B00717D21FF39B54008B87D4 /* typeImage.JPG in Resources */ = {isa = PBXBuildFile; fileRef = B00717D11FF39B54008B87D4 /* typeImage.JPG */; };
+		B0BA1E481FF3CF5700F02FEB /* KLProgressHUD.bundle in Resources */ = {isa = PBXBuildFile; fileRef = B0BA1E3B1FF3CF5700F02FEB /* KLProgressHUD.bundle */; };
+		B0BA1E491FF3CF5700F02FEB /* KLProgressHUD.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0BA1E3C1FF3CF5700F02FEB /* KLProgressHUD.swift */; };
+		B0BA1E4A1FF3CF5700F02FEB /* KLProgressHUDAnimationShowStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0BA1E3D1FF3CF5700F02FEB /* KLProgressHUDAnimationShowStyle.swift */; };
+		B0BA1E4B1FF3CF5700F02FEB /* KLProgressHUDAnimationStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0BA1E3E1FF3CF5700F02FEB /* KLProgressHUDAnimationStyle.swift */; };
+		B0BA1E4C1FF3CF5700F02FEB /* KLProgressHUDConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0BA1E3F1FF3CF5700F02FEB /* KLProgressHUDConfig.swift */; };
+		B0BA1E4D1FF3CF5700F02FEB /* KLProgressHUDEffectStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0BA1E401FF3CF5700F02FEB /* KLProgressHUDEffectStyle.swift */; };
+		B0BA1E4E1FF3CF5700F02FEB /* KLProgressHUDGifView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0BA1E411FF3CF5700F02FEB /* KLProgressHUDGifView.swift */; };
+		B0BA1E4F1FF3CF5700F02FEB /* KLProgressHUDImageType.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0BA1E421FF3CF5700F02FEB /* KLProgressHUDImageType.swift */; };
+		B0BA1E501FF3CF5700F02FEB /* KLProgressHUDMaskStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0BA1E431FF3CF5700F02FEB /* KLProgressHUDMaskStyle.swift */; };
+		B0BA1E511FF3CF5700F02FEB /* KLProgressHUDType.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0BA1E441FF3CF5700F02FEB /* KLProgressHUDType.swift */; };
+		B0BA1E521FF3CF5700F02FEB /* KLProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0BA1E451FF3CF5700F02FEB /* KLProgressView.swift */; };
+		B0BA1E531FF3CF5700F02FEB /* String-Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0BA1E461FF3CF5700F02FEB /* String-Extension.swift */; };
+		B0BA1E541FF3CF5700F02FEB /* UIView-Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0BA1E471FF3CF5700F02FEB /* UIView-Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,21 +62,21 @@
 		B00717A21FF36F21008B87D4 /* KLProgressHUDDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KLProgressHUDDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B00717A61FF36F21008B87D4 /* KLProgressHUDDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KLProgressHUDDemoUITests.swift; sourceTree = "<group>"; };
 		B00717A81FF36F21008B87D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B00717B51FF36F6A008B87D4 /* String-Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String-Extension.swift"; sourceTree = "<group>"; };
-		B00717B71FF36F90008B87D4 /* UIView-Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView-Extension.swift"; sourceTree = "<group>"; };
-		B00717B91FF36FB6008B87D4 /* KLProgressHUD.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = KLProgressHUD.bundle; sourceTree = "<group>"; };
-		B00717BB1FF3701A008B87D4 /* KLProgressHUDType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KLProgressHUDType.swift; sourceTree = "<group>"; };
-		B00717BD1FF37055008B87D4 /* KLProgressHUDConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KLProgressHUDConfig.swift; sourceTree = "<group>"; };
-		B00717BF1FF370DC008B87D4 /* KLProgressHUDMaskStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KLProgressHUDMaskStyle.swift; sourceTree = "<group>"; };
-		B00717C11FF37118008B87D4 /* KLProgressHUDImageType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KLProgressHUDImageType.swift; sourceTree = "<group>"; };
-		B00717C31FF37463008B87D4 /* KLProgressHUDEffectStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KLProgressHUDEffectStyle.swift; sourceTree = "<group>"; };
-		B00717C51FF37489008B87D4 /* KLProgressHUDAnimationStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KLProgressHUDAnimationStyle.swift; sourceTree = "<group>"; };
-		B00717C71FF374BC008B87D4 /* KLProgressHUDAnimationShowStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KLProgressHUDAnimationShowStyle.swift; sourceTree = "<group>"; };
-		B00717C91FF374DD008B87D4 /* KLProgressHUD.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KLProgressHUD.swift; sourceTree = "<group>"; };
-		B00717CB1FF37603008B87D4 /* KLProgressHUDGifView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KLProgressHUDGifView.swift; sourceTree = "<group>"; };
-		B00717CD1FF37611008B87D4 /* KLProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KLProgressView.swift; sourceTree = "<group>"; };
 		B00717CF1FF39B01008B87D4 /* loader.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = loader.gif; sourceTree = "<group>"; };
 		B00717D11FF39B54008B87D4 /* typeImage.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = typeImage.JPG; sourceTree = "<group>"; };
+		B0BA1E3B1FF3CF5700F02FEB /* KLProgressHUD.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = KLProgressHUD.bundle; sourceTree = "<group>"; };
+		B0BA1E3C1FF3CF5700F02FEB /* KLProgressHUD.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KLProgressHUD.swift; sourceTree = "<group>"; };
+		B0BA1E3D1FF3CF5700F02FEB /* KLProgressHUDAnimationShowStyle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KLProgressHUDAnimationShowStyle.swift; sourceTree = "<group>"; };
+		B0BA1E3E1FF3CF5700F02FEB /* KLProgressHUDAnimationStyle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KLProgressHUDAnimationStyle.swift; sourceTree = "<group>"; };
+		B0BA1E3F1FF3CF5700F02FEB /* KLProgressHUDConfig.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KLProgressHUDConfig.swift; sourceTree = "<group>"; };
+		B0BA1E401FF3CF5700F02FEB /* KLProgressHUDEffectStyle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KLProgressHUDEffectStyle.swift; sourceTree = "<group>"; };
+		B0BA1E411FF3CF5700F02FEB /* KLProgressHUDGifView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KLProgressHUDGifView.swift; sourceTree = "<group>"; };
+		B0BA1E421FF3CF5700F02FEB /* KLProgressHUDImageType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KLProgressHUDImageType.swift; sourceTree = "<group>"; };
+		B0BA1E431FF3CF5700F02FEB /* KLProgressHUDMaskStyle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KLProgressHUDMaskStyle.swift; sourceTree = "<group>"; };
+		B0BA1E441FF3CF5700F02FEB /* KLProgressHUDType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KLProgressHUDType.swift; sourceTree = "<group>"; };
+		B0BA1E451FF3CF5700F02FEB /* KLProgressView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KLProgressView.swift; sourceTree = "<group>"; };
+		B0BA1E461FF3CF5700F02FEB /* String-Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String-Extension.swift"; sourceTree = "<group>"; };
+		B0BA1E471FF3CF5700F02FEB /* UIView-Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView-Extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,9 +127,9 @@
 		B00717851FF36F21008B87D4 /* KLProgressHUDDemo */ = {
 			isa = PBXGroup;
 			children = (
+				B0BA1E3A1FF3CF5700F02FEB /* KLProgressHUD */,
 				B00717CF1FF39B01008B87D4 /* loader.gif */,
 				B00717D11FF39B54008B87D4 /* typeImage.JPG */,
-				B00717B41FF36F2F008B87D4 /* KLProgressHUD */,
 				B00717861FF36F21008B87D4 /* AppDelegate.swift */,
 				B00717881FF36F21008B87D4 /* ViewController.swift */,
 				B007178A1FF36F21008B87D4 /* Main.storyboard */,
@@ -158,22 +158,22 @@
 			path = KLProgressHUDDemoUITests;
 			sourceTree = "<group>";
 		};
-		B00717B41FF36F2F008B87D4 /* KLProgressHUD */ = {
+		B0BA1E3A1FF3CF5700F02FEB /* KLProgressHUD */ = {
 			isa = PBXGroup;
 			children = (
-				B00717B91FF36FB6008B87D4 /* KLProgressHUD.bundle */,
-				B00717B51FF36F6A008B87D4 /* String-Extension.swift */,
-				B00717B71FF36F90008B87D4 /* UIView-Extension.swift */,
-				B00717BB1FF3701A008B87D4 /* KLProgressHUDType.swift */,
-				B00717BD1FF37055008B87D4 /* KLProgressHUDConfig.swift */,
-				B00717BF1FF370DC008B87D4 /* KLProgressHUDMaskStyle.swift */,
-				B00717C11FF37118008B87D4 /* KLProgressHUDImageType.swift */,
-				B00717C31FF37463008B87D4 /* KLProgressHUDEffectStyle.swift */,
-				B00717C51FF37489008B87D4 /* KLProgressHUDAnimationStyle.swift */,
-				B00717C71FF374BC008B87D4 /* KLProgressHUDAnimationShowStyle.swift */,
-				B00717C91FF374DD008B87D4 /* KLProgressHUD.swift */,
-				B00717CB1FF37603008B87D4 /* KLProgressHUDGifView.swift */,
-				B00717CD1FF37611008B87D4 /* KLProgressView.swift */,
+				B0BA1E3B1FF3CF5700F02FEB /* KLProgressHUD.bundle */,
+				B0BA1E3C1FF3CF5700F02FEB /* KLProgressHUD.swift */,
+				B0BA1E3D1FF3CF5700F02FEB /* KLProgressHUDAnimationShowStyle.swift */,
+				B0BA1E3E1FF3CF5700F02FEB /* KLProgressHUDAnimationStyle.swift */,
+				B0BA1E3F1FF3CF5700F02FEB /* KLProgressHUDConfig.swift */,
+				B0BA1E401FF3CF5700F02FEB /* KLProgressHUDEffectStyle.swift */,
+				B0BA1E411FF3CF5700F02FEB /* KLProgressHUDGifView.swift */,
+				B0BA1E421FF3CF5700F02FEB /* KLProgressHUDImageType.swift */,
+				B0BA1E431FF3CF5700F02FEB /* KLProgressHUDMaskStyle.swift */,
+				B0BA1E441FF3CF5700F02FEB /* KLProgressHUDType.swift */,
+				B0BA1E451FF3CF5700F02FEB /* KLProgressView.swift */,
+				B0BA1E461FF3CF5700F02FEB /* String-Extension.swift */,
+				B0BA1E471FF3CF5700F02FEB /* UIView-Extension.swift */,
 			);
 			name = KLProgressHUD;
 			path = ../../KLProgressHUD;
@@ -289,8 +289,8 @@
 			files = (
 				B00717911FF36F21008B87D4 /* LaunchScreen.storyboard in Resources */,
 				B00717D21FF39B54008B87D4 /* typeImage.JPG in Resources */,
-				B00717BA1FF36FB6008B87D4 /* KLProgressHUD.bundle in Resources */,
 				B007178E1FF36F21008B87D4 /* Assets.xcassets in Resources */,
+				B0BA1E481FF3CF5700F02FEB /* KLProgressHUD.bundle in Resources */,
 				B00717D01FF39B01008B87D4 /* loader.gif in Resources */,
 				B007178C1FF36F21008B87D4 /* Main.storyboard in Resources */,
 			);
@@ -317,20 +317,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B00717C01FF370DC008B87D4 /* KLProgressHUDMaskStyle.swift in Sources */,
-				B00717C21FF37118008B87D4 /* KLProgressHUDImageType.swift in Sources */,
-				B00717CE1FF37611008B87D4 /* KLProgressView.swift in Sources */,
-				B00717CC1FF37603008B87D4 /* KLProgressHUDGifView.swift in Sources */,
-				B00717C61FF37489008B87D4 /* KLProgressHUDAnimationStyle.swift in Sources */,
-				B00717C81FF374BC008B87D4 /* KLProgressHUDAnimationShowStyle.swift in Sources */,
-				B00717BC1FF3701A008B87D4 /* KLProgressHUDType.swift in Sources */,
-				B00717BE1FF37055008B87D4 /* KLProgressHUDConfig.swift in Sources */,
-				B00717B81FF36F90008B87D4 /* UIView-Extension.swift in Sources */,
-				B00717CA1FF374DD008B87D4 /* KLProgressHUD.swift in Sources */,
+				B0BA1E511FF3CF5700F02FEB /* KLProgressHUDType.swift in Sources */,
+				B0BA1E4D1FF3CF5700F02FEB /* KLProgressHUDEffectStyle.swift in Sources */,
+				B0BA1E501FF3CF5700F02FEB /* KLProgressHUDMaskStyle.swift in Sources */,
+				B0BA1E4F1FF3CF5700F02FEB /* KLProgressHUDImageType.swift in Sources */,
 				B00717891FF36F21008B87D4 /* ViewController.swift in Sources */,
+				B0BA1E4C1FF3CF5700F02FEB /* KLProgressHUDConfig.swift in Sources */,
+				B0BA1E4E1FF3CF5700F02FEB /* KLProgressHUDGifView.swift in Sources */,
+				B0BA1E491FF3CF5700F02FEB /* KLProgressHUD.swift in Sources */,
+				B0BA1E4B1FF3CF5700F02FEB /* KLProgressHUDAnimationStyle.swift in Sources */,
+				B0BA1E531FF3CF5700F02FEB /* String-Extension.swift in Sources */,
+				B0BA1E541FF3CF5700F02FEB /* UIView-Extension.swift in Sources */,
 				B00717871FF36F21008B87D4 /* AppDelegate.swift in Sources */,
-				B00717C41FF37463008B87D4 /* KLProgressHUDEffectStyle.swift in Sources */,
-				B00717B61FF36F6A008B87D4 /* String-Extension.swift in Sources */,
+				B0BA1E521FF3CF5700F02FEB /* KLProgressView.swift in Sources */,
+				B0BA1E4A1FF3CF5700F02FEB /* KLProgressHUDAnimationShowStyle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

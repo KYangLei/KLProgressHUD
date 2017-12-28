@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'KLProgressHUD'
-  s.version = '1.0.0'
+  s.version = '1.0.1'
   s.ios.deployment_target = '10.0'
   s.license = { :type => 'MIT', :file => 'LICENSE' }
   s.summary = 'swift 编写带有进度条显示的HUD。'

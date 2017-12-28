@@ -10,7 +10,7 @@ import UIKit
 
 public typealias KLCompletion = (() -> Void)
 
-class KLProgressHUD: UIView {
+public class KLProgressHUD: UIView {
     /// 全局中间变量
     fileprivate var hudType: KLHUDType!
     fileprivate var status: String?
